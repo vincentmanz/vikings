@@ -38,7 +38,7 @@ of evidence, but also quantitative and qualitative approaches.
 <center>
 
 ![Figure
-1](https://github.com/vincentmanz/scientific_articles/blob/main/Vikings/Figure%201.png)
+1](https://github.com/vincentmanz/vikings/blob/main/Figure%201.png)
 *Conceptual framework and methodological step-by-step comparison of
 plant uses in the Viking Age.*
 
@@ -47,6 +47,6 @@ plant uses in the Viking Age.*
 <center>
 
 ![Figure
-2](https://github.com/vincentmanz/scientific_articles/blob/main/Vikings/Figure%202.png)
+2](https://github.com/vincentmanz/vikings/blob/main/Figure%202.png)
 
 </center>
