@@ -19,7 +19,7 @@ Install vistual environment
 
 # R environment
  sudo apt install r-base-core
- Rscript requirement_R.txt
+ Rscript requirement_R.R
 
 **If the python environment and the R module are installed run: **
 	source ./vikings/bin/activate
