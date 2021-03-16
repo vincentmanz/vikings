@@ -35,6 +35,9 @@ phylogenetic comparative methods to study past botanical knowledge. We
 propose a “triangulation method” that not only combines multiple lines
 of evidence, but also quantitative and qualitative approaches.
 
+
+R analyses in the repository on [Simon Greenhill](https://github.com/SimonGreenhill/noRdic)
+
 <center>
 
 ![Figure
